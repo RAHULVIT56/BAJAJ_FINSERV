@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bajaj Finserv Health Hackathon - Spring Boot Application
 
 ## Project Overview
@@ -176,3 +177,6 @@ The application provides detailed logging at DEBUG level. Check the console outp
 ## Support
 
 For any issues or questions, please refer to the application logs or check the H2 database console for data verification.
+=======
+# BAJAJ_FINSERV
+>>>>>>> 05b65f00d6875a1c0ae6a5d5746993d0c5e2ed0b
